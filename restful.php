@@ -1,8 +1,8 @@
 <?php
 $GLOBALS["mysqli_location"] = "localhost";
-$GLOBALS["mysqli_username"] = "root";
-$GLOBALS["mysqli_password"] = "HappY@1225,2016!";
-$GLOBALS["mysqli_database"] = "kuaidi";
+$GLOBALS["mysqli_username"] = "username";
+$GLOBALS["mysqli_password"] = "password";
+$GLOBALS["mysqli_database"] = "database";
 class restful
 {
 	protected $response = array();
